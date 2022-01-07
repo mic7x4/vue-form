@@ -28,12 +28,6 @@
           <button>Create an account</button>
       </div>
   </form>
-
-  <p>Password: {{passError}}</p>
-  <p>Email:{{email}}</p>
-  <p>Password: {{password}}</p>
-  <p>Role: {{role}}</p>
-  <p>Terms accepted: {{terms}}</p>
 </template>
 
 <script>
